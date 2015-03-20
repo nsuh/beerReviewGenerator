@@ -2,6 +2,8 @@ Faking beer snobbery using N-Grams and markov chains!
 Try it yourself by running cleanBeerReviews.py, and then generateReview.py!
 
 
+
+
 Some successes:
 
 "Light Amber color, nearly copper, medium head. Medium hopped, with some yeast haze when finishing bottle.”
