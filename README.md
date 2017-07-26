@@ -1,3 +1,5 @@
+This is code to algorithmically generate beer reviews, based off of real reviews I scraped.
+
 Faking beer snobbery using N-Grams and markov chains!
 Try it yourself by running cleanBeerReviews.py, and then generateReview.py!
 
@@ -22,4 +24,3 @@ Some fails:
 
 
 
-This was a really fun project!  Another interesting application would be to generate 1-star Yelp reviews.  Next time - faking disgruntledness.  
